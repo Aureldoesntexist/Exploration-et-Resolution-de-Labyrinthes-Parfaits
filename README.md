@@ -1,5 +1,3 @@
-# <p align="center">Projet de 2ème année de licence d'informatique</p>
-  
 L'objectif de ce projet était de réaliser un labyrinthe parfait en Python à l'aide de l'algorinthe de notre choix et de simuler sa résolution à l'aide de deux algorithmes exigés
 
 
